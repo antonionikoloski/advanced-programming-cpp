@@ -10,17 +10,6 @@ Download CT Scan datasets here:
 
 https://imperiallondon-my.sharepoint.com/:u:/g/personal/tmd02_ic_ac_uk/EafXMuNsbcNGnRpa8K62FjkBvIKvCswl1riz7hPDHpHdSQ
 
-## Group Information
-- **Group Name**: Dijkstra
-- **Members**:
-  - Antonio Nikoloski (GitHub: esemsc-an1224)
-  - Azam Sazina (GitHub: esemsc-sa3224)
-  - Tyana Tshiota (GitHub: esemsc-tnt24)
-  - Yang Aijia (GitHub: esemsc-ay424)
-  - Yue Zigi (GitHub: esemsc-zy424)
-  - Zhang Zewei (GitHub: esemsc-zz724)
-  - Zhou Xiaorui (GitHub: esemsc-zx24)
-
 ## Project Overview
 `APImageFilters` is a C++ project developed as part of an Advanced Programming course. The project focuses on image processing and 3D volume visualization, providing tools to apply filters to 2D images and perform projections on 3D volumetric data, such as CT scans. Key features include:
 
